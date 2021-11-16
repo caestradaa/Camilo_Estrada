@@ -1,7 +1,6 @@
 ## Welcome to my Project Portfolio
 
-Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a mayor in Information Systems. I'm passionate about data, business analytics and technology. Feel free to navigate and review my work.
-
+Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a mayor in Information Systems. Feel free to navigate and review my work.
 You can contact me directly through my [LinkedIn](https://www.linkedin.com/in/caestradaa/) or send me an email to 📩 camilo.estrada.14@gmail.com
 
 ## [Project 1: Effect of Vaccines on Covid-19 fatality rate in Colombia](https://github.com/caestradaa/covid_fatality_in_Col)
