@@ -1,8 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to my Project Portfolio
 
 You can use the [editor on GitHub](https://github.com/caestradaa/Portfolio_Webpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Project 1:
+
+
+
+## Project 2:
+
+
+
+## [Project 3: Pasta Moisture Data Analysis](https://github.com/caestradaa/pasta_moisture_daproj)
+*Exploratory data analysis on pasta moisture in the food production industry for manufacturing efficiency improvement.*
+- In this research work, a deep analysis on the moisture data of pasta in a food factory was carried out, in order to answer questions and help make decisions to improve the efficiency of the pasta drying process.
+- Data obtained from moisture testers through an IOT data capture system and stored on a csv file. 1 final dataset with **14.121 rows**.
+- Project tools: **Power BI** for ETL and visualizations, **Infostat** for statistics, **Excel**.
+- An insightful **[Power BI report][PBIreport]** was built and recommendations made it possible to improve the efficiency of the pasta drying process by **12%** in Line C.
+
+
+## [Project 4: Dashboard Catalog](https://github.com/caestradaa/dashboard_catalog)
+*This repository contains short dashboard projects I have made.*
+1. [RFM Analysis Dashbard](https://github.com/caestradaa/other_dashboards/tree/main/RFM_Analysis_Dashboard) (PowerBI/Excel)
+2. [Bakery Sales Dashboard](https://github.com/caestradaa/other_dashboards/tree/main/Bakery_Sales_Dashboard) (PowerBI/Excel)
+
+
 
 ### Markdown
 
