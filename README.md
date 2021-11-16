@@ -1,15 +1,23 @@
 ## Welcome to my Project Portfolio
 
-You can use the [editor on GitHub](https://github.com/caestradaa/Portfolio_Webpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a mayor in Information Systems. I'm passionate about data, business analytics and technology. Feel free to navigate and review my work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can contact me directly through my [LinkedIn](https://www.linkedin.com/in/caestradaa/) or send me an email to 📩 camilo.estrada.14@gmail.com
 
-## Project 1:
+## [Project 1: Effect of Vaccines on Covid-19 fatality rate in Colombia](https://github.com/caestradaa/covid_fatality_in_Col)
+*Data analysis project about the effect of vaccines on covid-19 fatality in Colombia.*
+- A data analysis on Covid-19 in Colombia was made in order to understand the effects that mass vaccination is having on the fatality rate, and determine if there really is a positive impact on vaccinated population.
+- Two datasets were used: Covid-19 positive cases data in Colombia extracted from the oficial repository of the National Institute of Health (4.9M rows up to Sep 14, 2021), and Vaccination data extracted from the official Our World in Data repository (208 rows).
+- Project tools: SQL Server for loading and cleaning data (**[SQL file][sqlfile]**). And SQL and Python for exploratory and explanatory analysis on a **[Jupyter notebook][notebook]** via %sql magic.
+- It was found that during the first six months after the start of vaccination, there has been a slight decrease in the fatality rate. The change has been slow and only begins to be noticeable after the seventh month (09-2021). In the last two months fatality rate has decreased on average by 28%
 
 
-
-## Project 2:
-
+## [Project 2: Real Estate Market Analysis in the city of Barranquilla, CO](https://github.com/caestradaa/real_estate_daproj)
+*Exploratory data analysis project of the real estate market in the city of Barranquilla, Colombia. 2021.*
+- A deep analysis of the real estate offers in Barranquilla, CO was carried out to achieve a better undestanding of the market, specifically the average price per square meter for each sector. It was made in order to help agents to make more accurate estimates of the valuation of each area and offer better advice to their clients. 
+- Data extracted from the real estate offers website metrocuadrado.com through web scraping. [Final dataset][cleandataset] with 7288 rows.
+- Project tools: Octoparse for web scraping; Power BI/DAX for ETL, data modeling and visualization; Python and Excel.
+- It is found that the real estate market is growing mainly towards the north of the city, the largest number of offers and the highest valuations of price per square meter are found there.
 
 
 ## [Project 3: Pasta Moisture Data Analysis](https://github.com/caestradaa/pasta_moisture_daproj)
