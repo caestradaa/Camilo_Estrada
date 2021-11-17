@@ -9,7 +9,7 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 
 - This project was made in order to understand the effects of mass vaccination on the fatality rate in Colombia, and determine if there really is a positive impact on vaccinated population.
 - Data: Covid-19 positive cases data in Colombia from the National Institute of Health (4.9M records). Vaccination data extracted from the official Our World in Data repository (208 rows).
-- Project tools: SQL Server for loading, cleaning and exploring data (**[SQL][sqlfile]**). Python for exploratory and explanatory analysis on a **[Jupyter notebook][notebook]** via %sql magic.
+- Tools: SQL Server for loading, cleaning and exploring data (**[SQL][sqlfile]**). Python for explanatory analysis on a **[Jupyter notebook][notebook]**.
 - During the first six months after the start of vaccination, fatality rate has slightly decrease and it is only noticeable after the seventh month (09-2021). In the last two months fatality rate has decreased by 28% on average.
 
 
@@ -18,11 +18,10 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 
 ### [Project 2: Real Estate Market Analysis in the city of Barranquilla, CO](https://github.com/caestradaa/real_estate_daproj)
 
-*Exploratory data analysis project of the real estate market in the city of Barranquilla, Colombia. 2021.*
-- A deep analysis of the real estate offers in Barranquilla, CO was carried out to achieve a better undestanding of the market, specifically the average price per square meter for each sector. It was made in order to help agents to make more accurate estimates of the valuation of each area and offer better advice to their clients. 
-- Data extracted from the real estate offers website metrocuadrado.com through web scraping. [Final dataset][cleandataset] with 7288 rows.
-- Project tools: Octoparse for web scraping; Power BI/DAX for ETL, data modeling and visualization; Python and Excel.
-- It is found that the real estate market is growing mainly towards the north of the city, the largest number of offers and the highest valuations of price per square meter are found there.
+- Exploratory data analysis of the real estate offers in the city, getting a better undestanding of the market and allowing agents to make more precise estimates on the valuation of each sector. 
+- Data extracted from metrocuadrado.com through web scraping (7288 records).
+- Tools: Octoparse for web scraping; Power BI/DAX for ETL, data modeling and visualization; Excel.
+- It is found that the real estate market is growing mainly towards the north of the city, as you can find there the largest number of offers per sector and the highest valuations of price per square meter.
 
 
 
