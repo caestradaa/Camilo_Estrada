@@ -12,7 +12,7 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 - Tools: **SQL Server** for loading, cleaning and exploring data (**[SQL][sqlfile]**). **Python** for explanatory analysis on a **[Jupyter notebook][notebook]**.
 - During the first six months after the start of vaccination, fatality rate has slightly decrease and it is only noticeable after the seventh month (09-2021). In the last two months fatality rate has decreased by 28% on average.  
 
-![]()
+![](/images/1.Fatality_rate_and_Deaths_by_AG_and_week_v2.PNG)
 
 
 
@@ -24,7 +24,7 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 - Tools: **Octoparse** for web scraping; **Power BI/DAX** for ETL, data modeling and visualization.
 - It is found that the real estate market is growing mainly towards the north of the city, as you can find there the largest number of offers per sector and the highest valuations of price per square meter.  
 
-![]()
+![](/images/2.Real_State_Dashboard_EDA.png)
 
 
 
@@ -36,7 +36,7 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 - Tools: **Power BI** and **Excel** for ETL and visualizations, **Infostat** for statistics.
 - An insightful Power BI report was built and recommendations made it possible to improve the efficiency of the pasta drying process by **12%**.  
 
-![]()
+![](/images/3.Cooler_vs_Stripper_Moisture_Scatterplot.PNG)
 
 
 
@@ -45,11 +45,11 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 
 1. [RFM Analysis Dashboard](https://github.com/caestradaa/other_dashboards/tree/main/RFM_Analysis_Dashboard) (PowerBI/Excel)  
 
-![]()
+![](/images/4.Bakery_Sales_Dashboard.PNG)
 
 2. [Bakery Sales Dashboard](https://github.com/caestradaa/other_dashboards/tree/main/Bakery_Sales_Dashboard) (PowerBI/Excel)  
 
-![]()
+![](/images/4.RFM_Analysis.png)
 
 
 
