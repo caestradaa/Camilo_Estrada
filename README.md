@@ -11,7 +11,7 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 - Data: Covid-19 positive cases data in Colombia from the National Institute of Health (**4.9M records**). Vaccination data extracted from the official Our World in Data repository (208 rows).
 - Tools: **SQL Server** for loading, cleaning and exploring data (**[SQL][sqlfile]**). **Python** for explanatory analysis on a **[Jupyter notebook][notebook]**.
 - During the first six months after the start of vaccination, fatality rate has slightly decrease and it is only noticeable after the seventh month (09-2021). In the last two months fatality rate has decreased by 28% on average.  
-![](/images/Fatality_rate_and_Deaths_by_AG_and_week_linechart%20v2.PNG)
+![](/images/1.Fatality_rate_and_Deaths_by_AG_and_week_linechart%20v2.PNG)
 
 
 
@@ -23,7 +23,7 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 - Data extracted from metrocuadrado.com through web scraping (**7288 records**).
 - Tools: **Octoparse** for web scraping; **Power BI/DAX** for ETL, data modeling and visualization.
 - It is found that the real estate market is growing mainly towards the north of the city, as you can find there the largest number of offers per sector and the highest valuations of price per square meter.  
-![](https://github.com/caestradaa/Camilo_Estrada_Portfolio/blob/main/images/1%20Dashboard%20-%20Exploratory%20Analysis.png)
+![](/images/2.Dashboard%20-%20Exploratory%20Analysis.png)
 
 
 
@@ -34,17 +34,18 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 - Data obtained from moisture testers through an IOT data capture system and stored on a csv file (**+14K records**).
 - Tools: **Power BI** and **Excel** for ETL and visualizations, **Infostat** for statistics.
 - An insightful Power BI report was built and recommendations made it possible to improve the efficiency of the pasta drying process by **12%**.  
-![](https://github.com/caestradaa/Camilo_Estrada_Portfolio/blob/main/images/Cooler_vs_Stripper_Moisture_Scatter_chart.PNG)
+![](/images/3.Cooler_vs_Stripper_Moisture_Scatter_chart.PNG)
 
 
 
 
 ### [Project 4: Dashboard Catalog](https://github.com/caestradaa/dashboard_catalog)
 
-1. [RFM Analysis Dashboard](https://github.com/caestradaa/other_dashboards/tree/main/RFM_Analysis_Dashboard) (PowerBI/Excel)
-2. [Bakery Sales Dashboard](https://github.com/caestradaa/other_dashboards/tree/main/Bakery_Sales_Dashboard) (PowerBI/Excel)  
-![](https://github.com/caestradaa/Camilo_Estrada_Portfolio/blob/main/images/1.%20Dashboard%20page%201%20-%20Sales.PNG)
+1. [RFM Analysis Dashboard](https://github.com/caestradaa/other_dashboards/tree/main/RFM_Analysis_Dashboard) (PowerBI/Excel)  
+![](/images/4.Dashboard%20page%201%20-%20Sales.PNG)
 
+2. [Bakery Sales Dashboard](https://github.com/caestradaa/other_dashboards/tree/main/Bakery_Sales_Dashboard) (PowerBI/Excel)  
+![](/images/4.Segmentaci%C3%B3n%20RFM.png)
 
 
 
