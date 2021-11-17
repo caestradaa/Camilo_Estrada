@@ -11,7 +11,7 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 - Data: Covid-19 positive cases data in Colombia from the National Institute of Health (**4.9M records**). Vaccination data extracted from the official Our World in Data repository (208 rows).
 - Tools: **SQL Server** for loading, cleaning and exploring data (**[SQL][sqlfile]**). **Python** for explanatory analysis on a **[Jupyter notebook][notebook]**.
 - During the first six months after the start of vaccination, fatality rate has slightly decrease and it is only noticeable after the seventh month (09-2021). In the last two months fatality rate has decreased by 28% on average.  
-![](https://github.com/caestradaa/Camilo_Estrada_Portfolio/blob/main/images/Fatality_rate_and_Deaths_by_AG_and_week_linechart%20v2.PNG)
+![](/images/Fatality_rate_and_Deaths_by_AG_and_week_linechart%20v2.PNG)
 
 
 
