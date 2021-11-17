@@ -48,6 +48,7 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 
 
 ### [Project 4: Dashboard Catalog](https://github.com/caestradaa/dashboard_catalog)
+Short dashboard projects
 
 1. [RFM Analysis Dashboard](https://github.com/caestradaa/other_dashboards/tree/main/RFM_Analysis_Dashboard) (PowerBI/Excel)  
 
