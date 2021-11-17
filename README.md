@@ -7,11 +7,10 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 
 ### [Project 1: Effect of Vaccines on Covid-19 fatality rate in Colombia](https://github.com/caestradaa/covid_fatality_in_Col)
 
-*Data analysis about the effects of vaccines on covid-19 fatality rate in Colombia.*
-- Is there really a positive impact on vaccinated population?
-- Data: Covid-19 positive cases data in Colombia from the National Institute of Health (4.9M rows up to Sep 14, 2021). Vaccination data extracted from the official Our World in Data repository (208 rows).
+- This project was made in order to understand the effects of mass vaccination on the fatality rate in Colombia, and determine if there really is a positive impact on vaccinated population.
+- Data: Covid-19 positive cases data in Colombia from the National Institute of Health (4.9M records). Vaccination data extracted from the official Our World in Data repository (208 rows).
 - Project tools: SQL Server for loading, cleaning and exploring data (**[SQL][sqlfile]**). Python for exploratory and explanatory analysis on a **[Jupyter notebook][notebook]** via %sql magic.
-- During the first six months after the start of vaccination, fatality rate has slightly decrease, it only begins to be noticeable after the seventh month (09-2021). In the last two months fatality rate has decreased by 28% on average.
+- During the first six months after the start of vaccination, fatality rate has slightly decrease and it is only noticeable after the seventh month (09-2021). In the last two months fatality rate has decreased by 28% on average.
 
 
 
