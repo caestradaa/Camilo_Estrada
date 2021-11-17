@@ -14,6 +14,8 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 
 ![](/images/1.Fatality_rate_and_Deaths_by_AG_and_week_v2.PNG)
 
+---
+
 
 
 
@@ -26,6 +28,8 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 
 ![](/images/2.Real_State_Dashboard_EDA.png)
 
+---
+
 
 
 
@@ -37,6 +41,8 @@ Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a may
 - An insightful Power BI report was built and recommendations made it possible to improve the efficiency of the pasta drying process by **12%**.  
 
 ![](/images/3.Cooler_vs_Stripper_Moisture_Scatterplot.PNG)
+
+---
 
 
 
