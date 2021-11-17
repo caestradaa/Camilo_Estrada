@@ -1,4 +1,4 @@
-## Welcome to my Project Portfolio
+## Welcome to my Portfolio
 
 Hi, I'm Camilo! I'm a Business Intelligence Analyst and MBA candidate with a mayor in Information Systems. You can contact me directly through my [LinkedIn](https://www.linkedin.com/in/caestradaa/) or send me an email to 📩 camilo.estrada.14@gmail.com
 
