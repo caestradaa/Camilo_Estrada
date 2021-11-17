@@ -1,3 +1,6 @@
+![](/images/Profile_Picture.jpg)
+![](/images/Camilo_Estrada_Logo_WO_Background.png)
+
 ## Welcome to my Portfolio
 
 Hi, I'm Camilo! I'm a BIn Analyst and MBA candidate. This is a brief overview of each of my projects, you can check the complete work by clicking on it. Contact me directly through my [LinkedIn](https://www.linkedin.com/in/caestradaa/) or send me an email to 📩 camilo.estrada.14@gmail.com
