@@ -1,5 +1,4 @@
-![](/images/Profile_image1.jpg)
-<!--![](/images/Camilo_Estrada_Logo_WO_Background.png)-->
+![](/images/Profile_Image_NoBck.png)
 
 ## Welcome to my Portfolio
 
