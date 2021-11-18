@@ -25,7 +25,7 @@ Hi, I'm Camilo! I'm a BI Analyst and MBA candidate. This is a brief overview of 
 ### [Project 2: Real Estate Market Analysis in the city of Barranquilla, CO](https://github.com/caestradaa/real_estate_daproj)
 
 - Exploratory data analysis of the real estate offers in the city, getting a better undestanding of the market and allowing agents to make more precise estimates on the valuation of each sector. 
-- Data extracted from metrocuadrado.com through web scraping (**7288 records**).
+- Data: Extracted from *metrocuadrado.com* through web scraping (**7288 records**).
 - Tools: **Octoparse** for web scraping; **Power BI/DAX** for ETL, data modeling and visualization.
 - It is found that the real estate market is growing mainly towards the north of the city, as you can find there the largest number of offers per sector and the highest valuations of price per square meter.  
 
