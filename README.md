@@ -4,7 +4,7 @@
 
 Hi, I'm Camilo! I'm a BI Analyst and MBA candidate. This is a brief overview of each of my projects, you can check the complete work by clicking on it. Contact me directly through my [LinkedIn](https://www.linkedin.com/in/caestradaa/) or send me an email to 📩 camilo.estrada.14@gmail.com
 
-
+[LinkedIn](https://www.linkedin.com/in/caestradaa/)  - [Github](https://github.com/caestradaa)  -  [Torre](https://torre.co/s/53iH0vzLZx)  
 
 
 ### [Project 1: Effect of Vaccines on Covid-19 fatality rate in Colombia](https://github.com/caestradaa/covid_fatality_in_Col)
