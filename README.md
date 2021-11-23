@@ -1,6 +1,6 @@
 ![](/images/Profile_Image_NoBck.png)
 
-## Welcome to my Portfolio
+## <FONT color=orange>Welcome to my Portfolio</FONT>
 
 Hi, I'm Camilo! I'm a BI Analyst and MBA candidate. This is a brief overview of each of my projects, you can check the complete work by clicking on it. Contact me directly through my [LinkedIn](https://www.linkedin.com/in/caestradaa/) or send me an email to 📩 camilo.estrada.14@gmail.com
 
@@ -13,8 +13,8 @@ Hi, I'm Camilo! I'm a BI Analyst and MBA candidate. This is a brief overview of 
 ### [Project 1: Effect of Vaccines on Covid-19 fatality rate in Colombia](https://github.com/caestradaa/covid_fatality_in_Col)
 
 - This project was made in order to understand the effects of mass vaccination on the fatality rate in Colombia, and determine if there really is a positive impact on vaccinated population.
-- <FONT color=orange>Data:</FONT>Covid-19 positive cases data in Colombia from the National Institute of Health (**4.9M records**). Vaccination data extracted from the official Our World in Data repository (208 rows).
-- <FONT color=orange>Tools:</FONT>**SQL Server** for ETL and data exploration (**[SQL queries][sqlfile]**). **Python** for explanatory analysis on a **[Jupyter notebook][notebook]**.
+- Data: Covid-19 positive cases data in Colombia from the National Institute of Health (**4.9M records**). Vaccination data extracted from the official Our World in Data repository (208 rows).
+- Tools: **SQL Server** for ETL and data exploration (**[SQL queries][sqlfile]**). **Python** for explanatory analysis on a **[Jupyter notebook][notebook]**.
 - During the first six months after the start of vaccination, fatality rate has slightly decrease and it is only noticeable after the seventh month (09-2021). In the last two months fatality rate has decreased by 28% on average.  
 
 ![](/images/1.Fatality_rate_and_Deaths_by_AG_and_week_v2.PNG)
