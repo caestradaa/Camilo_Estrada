@@ -57,11 +57,11 @@ Short dashboard projects:
 
 1. [RFM Analysis Dashboard](https://github.com/caestradaa/other_dashboards/tree/main/RFM_Analysis_Dashboard) (PowerBI/Excel)  
 
-![](/images/4.Bakery_Sales_Dashboard.PNG)
+![](/images/4.RFM_Analysis.png)
 
 2. [Bakery Sales Dashboard](https://github.com/caestradaa/other_dashboards/tree/main/Bakery_Sales_Dashboard) (PowerBI/Excel)  
 
-![](/images/4.RFM_Analysis.png)
+![](/images/4.Bakery_Sales_Dashboard.PNG)
 
 
 
