@@ -53,7 +53,7 @@ Hi, I'm Camilo! I'm a BI Analyst and MBA candidate. This is a brief overview of 
 
 
 ### [Project 4: Dashboard Catalog](https://github.com/caestradaa/dashboard_catalog)
-Short dashboard projects:
+A collection of previous dashboard projects I have built through this journey:
 
 1. [RFM Analysis Dashboard](https://github.com/caestradaa/other_dashboards/tree/main/RFM_Analysis_Dashboard) (PowerBI/Excel)  
 
